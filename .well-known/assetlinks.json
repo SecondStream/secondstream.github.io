@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ru.innim.notes",
+    "sha256_cert_fingerprints":
+    ["92:B4:80:1F:54:C3:D3:18:1E:98:29:B5:57:A6:99:EF:B5:8F:10:72:B9:DF:E0:48:5D:E0:25:0D:BB:E3:E1:23"]
+  }
+}]
